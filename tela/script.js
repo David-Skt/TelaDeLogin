@@ -1,4 +1,4 @@
-function mostrarOcultarsenha(){
+function mostrarsenha(){
     var senha=document.getElementById("senha");
     if(senha.type=="password"){
         senha.type="text";
